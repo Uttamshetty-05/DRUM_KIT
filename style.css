@@ -35,7 +35,7 @@ p {
     padding: 15px 10px;
     width: 90px;
     transition: all 0.07s ease;
-    text-shadow: 0 0 5px #ff8e6a;
+    text-shadow: 0 0 5px #521705;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
     cursor: pointer;
 }
@@ -43,14 +43,14 @@ p {
 kbd {
     display: block;
     font-size: 30px;
-    color: #ff8e6a;
+    color: #e5957d;
 }
 
 .sound {
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #b8c1ec;
+    color: #001168;
 }
 
 
